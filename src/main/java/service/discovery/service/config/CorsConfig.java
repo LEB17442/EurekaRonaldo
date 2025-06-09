@@ -1,4 +1,4 @@
-package service.discovery.config;
+package service.discovery.service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
